@@ -1,9 +1,9 @@
 
 # Thaidoans
 
-Ninety years before the great war, a human woman of extraordinary power lead eight Faunus disciples into the mountains of northern Vacuo. She identified herself only as Jade, and offered very little explanation to her arrival or backstory. There, in the corner of the world, she taught the underprivilged Faunus how to fight the forces of darkness.
+Ninety years before the great war, a human woman of extraordinary power lead eight Faunus disciples into the mountains of northern Vacuo. She identified herself only as Jade, and offered very little explanation to her arrival or backstory. There, in the corner of the world, she taught the underprivileged Faunus how to fight the forces of darkness.
 
-Word around Vacuo began to spread about the supposed powers of the Sun Priestess on the mountain. She could defeat the most terrifying Grimm. She could peform legendary feats of power beyond what should have been possible, including the gift of flight. As the rumors grew, so did her following. What started as a camp for her disciples became a village, which grew into a stronghold. Several surrounding tribes emerged that began to accept her as a guardian of mankind.
+Word around Vacuo began to spread about the supposed powers of the Sun Priestess on the mountain. She could defeat the most terrifying Grimm. She could perform legendary feats of power beyond what should have been possible, including the gift of flight. As the rumors grew, so did her following. What started as a camp for her disciples became a village, which grew into a stronghold. Several surrounding tribes emerged that began to accept her as a guardian of mankind.
 
 Two of Jade's closest disciples began to take exhaustive notes about her life and her teachings, documenting entire stories about her life and organizing her teachings into doctrine. Due to the growing popularity of the teachings, Jade eventually decided to create an official practice. And thus, Thaido was born.
 
@@ -19,7 +19,7 @@ The base combat style that all Thaidoans learn is a martial art that emphasizes 
 
 The first tenant of Thaido reads "If one takes the eye of an innocent, take both of the eyes of the guilty. Tolerance of evil serves only the oppressor." It is meant to reinforce the idea that oppression is not solved by the voluntary actions of the guilty parties. Jade believed that serving justice meant inflicting genuine punishments against the evils of the world.
 
-The second tenant, which is meant to reign in the first, reads "Fight not for your own cause, but for those who suffer more, lest you become the villain." It speaks to the concern of those who seek a selfish vengence rather than a righteous justice. According to the disciple's stories, Jade originally came to the mountains in fear that she would become vengeful if she did not isolate herself.
+The second tenant, which is meant to reign in the first, reads "Fight not for your own cause, but for those who suffer more, lest you become the villain." It speaks to the concern of those who seek a selfish vengeance rather than a righteous justice. According to the disciple's stories, Jade originally came to the mountains in fear that she would become vengeful if she did not isolate herself.
 
 The third tenant reads "Doubt is not your enemy. To be closer to the truth is to discover you were wrong."
 
@@ -41,11 +41,11 @@ The next day, she was gone, leaving only a set of instructions for her closest d
 
 ### The Attacks on Pike
 
-After Jade's disappearance, many rallied against the Thaidoans. Despite the superior numbers that attacked Pike and its neighboring tribes, Pike had the overwhelming advantage of high ground and well-established mountain fortifications. Several tribes had to move to Pike as their villages were destroyed, but Pike remained unscathed. Thousands lost their lives trying to break Pike's defenses, and the attacks were considered a collosal failure.
+After Jade's disappearance, many rallied against the Thaidoans. Despite the superior numbers that attacked Pike and its neighboring tribes, Pike had the overwhelming advantage of high ground and well-established mountain fortifications. Several tribes had to move to Pike as their villages were destroyed, but Pike remained unscathed. Thousands lost their lives trying to break Pike's defenses, and the attacks were considered a colossal failure.
 
 ### Combat Training
 
-The combat school that Pike offers is certainly a prestigeous choice, and is open to anyone that is willing to follow the Thaidoan path. Just like with other combat schools, graduates of the Jade Temple often go on to apply to Vacuo and other major Huntsmen academies.
+The combat school that Pike offers is certainly a prestigious choice, and is open to anyone that is willing to follow the Thaidoan path. Just like with other combat schools, graduates of the Jade Temple often go on to apply to Vacuo and other major Huntsmen academies.
 
 ## Culture
 
@@ -65,6 +65,6 @@ It is also common for disciples to get a tattoo of the Sun Priestess, or one of 
 
 ### Social Status
 
-There are no official ranks within Thaidoan culture, as Jade had intended everyone to see each other as equal, but there are positions of influence and general social heirarchies based on one's achievements. Those who return from their ten years of service are regarded as the core disciples and teachers.
+There are no official ranks within Thaidoan culture, as Jade had intended everyone to see each other as equal, but there are positions of influence and general social hierarchies based on one's achievements. Those who return from their ten years of service are regarded as the core disciples and teachers.
 
 A small team of leaders are elected to oversee Pike and its culture, as was intended by Jade's final instructions. Votes for leaders are cast by those who have spent at least five years in service to the cause.
