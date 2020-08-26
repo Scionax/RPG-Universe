@@ -5,7 +5,7 @@ A grimoire is a tome of magic and utility; often used by alchemists or mages, bu
 Any tab upgrade can be acquired multiple times, such as to have four separate research topics and three spellbooks of different spell classifications. Each tab has exactly as many pages as the grimoire itself does, which is generally between 100 to 200.
 
  **Name**       | **Description**                                                                               | **Tier** 
-----------------|-----------------------------------------------------------------------------------------------|----------
+----------------|-----------------------------------------------------------------------------------------------|:--------:
  Journal Tab    | Used as a personal journal for the primary owner or users.                                    | 1        
  Todo Tab       | Used for tracking tasks, todo lists, previous completions, etc.                               | 1        
  Recipes Tab    | Used for recipes for cooking, potions, alchemy, etc.                                          | 1        
