@@ -1,7 +1,7 @@
 ## Boots
 
  **Name**         | **Description**                                                                             | **Tier** 
-------------------|---------------------------------------------------------------------------------------------|----------
+------------------|---------------------------------------------------------------------------------------------|:--------:
  Upstanding       | While prone, the wearer of these boots can stand up instantly without effort.               | 1        
  Fire Walk        | Can walk on fire, lava, coal, or any other fire-based surface without issue.                | 1        
  Soft Walk        | Can walk on mud, quicksand, or viscous surfaces without issue.                              | 1        
