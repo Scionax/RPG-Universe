@@ -1,6 +1,6 @@
 ## Void Sheath
 
-A void sheath is a tier-4 enchanted band that “contains” a small concealed weapon (or other small item) in an extra-dimensional pocket (like a bag of holding). The attuned weapon can be summoned at will to the user’s hand from up to 25 centimeters away.
+A void sheath is a tier-4 enchanted band that “contains” a small concealed weapon (or other small item) in an extra-dimensional pocket (like a bag of holding). A glyph of the currently held item(s) will be visible on the band. Any attuned weapon (or item) can be summoned at will to the user’s hand from up to 25 centimeters away.
 
 The sheath is generally worn as a wristband, but it can be worn on any limb for an alternative compartment location. The default size allowance is roughly the size of a switchblade or a tiny lock-pick set. It takes an hour-long meditation to attune an item to the sheath, and a minute of concentration to return an attuned item back to the sheath’s compartment.
 
