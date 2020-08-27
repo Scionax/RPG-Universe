@@ -10,8 +10,6 @@
  Water Walk       | Can walk on water or ice as though it were solid ground without issue.                      | 2        
  Summon           | Boots will come to you when needed, from long range. Will equip and lace themselves.        | 2        
  Flippers         | Will function underwater as flippers, despite their form. Waterproof.                       | 2        
- Resilience       | No added protection to the wearer, but are very resilient to physical damage.               | 2        
- Elemental Resist | Only indirect protection to the wearer; immune to all elemental effects (fire, frost, etc). | 2        
  Self-Repairing   | These boots will maintain and repair themselves over time; 1 week full repair.              | 2        
  Cosmetic         | These boots can change their appearance to suit the user’s outfit.                          | 2        
  Rooted           | When the user is trying to stabilize or root themselves, the boots will assist for +50%.    | 2        
