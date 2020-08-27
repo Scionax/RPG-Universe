@@ -1,5 +1,7 @@
 ## Glasses
 
+Armor enchantments are also allowed on enchanted glasses.
+
  **Name**           | **Description**                                                                             | **Tier** 
 --------------------|---------------------------------------------------------------------------------------------|:--------:
  Underwater Vision  | Can see underwater with exceptional range and clarity. Protects eyes.                       | 1        
