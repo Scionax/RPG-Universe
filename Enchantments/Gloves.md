@@ -1,5 +1,7 @@
 ## Gloves
 
+Armor enchantments are also allowed on enchanted gloves.
+
  **Name**            | **Description**                                                                             | **Tier** 
 ---------------------|---------------------------------------------------------------------------------------------|:--------:
  Untraceable         | Does not leave fingerprints or evidence of any kind.                                        | 1        
