@@ -1,5 +1,7 @@
 ## Boots
 
+Armor enchantments are also allowed on enchanted boots.
+
  **Name**        | **Description**                                                                          | **Tier** 
 -----------------|------------------------------------------------------------------------------------------|:--------:
  Upstanding      | While prone, the wearer of these boots can stand up instantly without effort.            | 1        
