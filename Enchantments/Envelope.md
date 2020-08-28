@@ -12,3 +12,4 @@ Once the contents are retrieved, an envelop will wait for a designated amount of
  Leyline Travel     | Speed of delivery is doubled along leylines and major roads. Cumulative with other upgrades. | 1        
  Rapid Delivery     | Speed of delivery is doubled. Cumulative with other upgrades.                                | 2        
  Delivery Package   | Can transform into a package (size of a large briefcase). Takes triple the time to deliver.  | 2        
+ Drop Of            | Can deliver contents to a desired location, rather than an individual, and then return.      | 2        
