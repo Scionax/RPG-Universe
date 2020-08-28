@@ -1,6 +1,8 @@
 ## Jar
 
-Enchanted jars will refill with food and beverage. It refills by gathering the essence of organic matter growing within 10 kilometers; and can supply itself with water at any time. Some areas will produce very high quality foods (forests, gardens, etc), while some areas (such as deserts) might struggle to produce anything. In most areas it can supply enough to comfortably feed two people.
+Enchanted jars will refill with food and beverage. It refills by gathering the essence of organic matter growing within 10 kilometers and can supply itself with water at any time. Some areas will produce very high quality foods (forests, gardens, etc), while some areas (such as deserts) might struggle to produce anything. In most areas it can supply enough to comfortably feed two people.
+
+The food and beverages the jar conjures depends on two primary factors: the preferences of the user, and the availability of the surrounding area. If the user wants a fruit shake, they need to be in an area where fruits are available.
 
  **Name**         | **Description**                                                                          | **Tier** 
 ------------------|------------------------------------------------------------------------------------------|:--------:
@@ -11,5 +13,5 @@ Enchanted jars will refill with food and beverage. It refills by gathering the e
  Purify           | Purifies any impurities, toxins, poisons, and other contaminants on added products.      | 2        
  Durability       | Resistant to physical damage, ignores elemental effects, repairs itself over 1 week.     | 2        
  Sustenance       | Jar can always supply protein-rich and nutrient-rich beverages and food sources.         | 2        
- Multi-Containers | Jar can open to ten separate extra-dimensional containers. Each refills separately.      | 3        
- Auto-Refill      | Jar will generate ten times as much product, automatically refilling ten times faster.   | 3        
+ Multi-Containers | Jar can open to ten extra-dimensional containers. Each can contain different content.    | 3        
+ More Product     | Jar will generate ten times as much product, automatically refilling ten times faster.   | 3        
