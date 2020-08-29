@@ -7,7 +7,7 @@ Armor enchantments are also allowed on enchanted boots.
  Design Cosmetics | These boots can change their appearance to suit the user’s outfit.                        | 1        
  Concealment      | Can conceal small items within a nearly impossible-to-discover compartment.               | 1        
  Upstanding       | While prone, the wearer of these boots can stand up instantly without effort.             | 2        
- Anti-Slip        | User can easily avoid slipping on ice and other slippery surfaces.                        | 1        
+ Anti-Slip        | User can easily avoid slipping on ice and other slippery surfaces.                        | 2        
  Balancing        | Can balance on any surface, no matter how thin or difficult to balance on.                | 2        
  Fire Walk        | Can walk on fire, lava, coal, or any hot or other fire-based surface without issue.       | 2        
  Soft Walk        | Can walk on mud, quicksand, or viscous surfaces without issue.                            | 2        
