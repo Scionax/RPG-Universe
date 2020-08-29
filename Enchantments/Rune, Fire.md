@@ -5,7 +5,7 @@ A fire rune, when activated, will conjure a self-containing utility fire that is
  **Name**        | **Description**                                                                            | **Tier** 
 -----------------|--------------------------------------------------------------------------------------------|:--------:
  Control         | User can control the fire’s size, height, colors, boundaries, and shape within its limits. | 1        
- Self-Fueled     | Fire requires no fuel. Treat it as though it has as much as it needs.                      | 1        
+ Self-Fueled     | Fire requires no fuel, doesn’t burn anything it isn’t supposed to, and makes no smoke.     | 1        
  Temp Control    | User can control the fire’s temperature within its limit.                                  | 1        
  Ambiance        | Fire’s heat can be distributed evenly across a 10 meter range.                             | 1        
  Intensity       | Fire can be five times stronger, and can triple it’s radius.                               | 1        
@@ -15,5 +15,6 @@ A fire rune, when activated, will conjure a self-containing utility fire that is
  Foundation      | Fireplace can transform to have a foundation, such as to create a stone campfire.          | 1        
  Mobility        | Fire can be mobilized, such as attached to a torch.                                        | 1        
  Hover           | Fire can be assigned to hover in place in the air, rather than on the ground.              | 1        
+ Signal Control  | Can easily create long-distance flares, beacons, and complex smoke signals.                | 2        
  Forge           | Fire can be raised with extreme heat and act as a forge.                                   | 2        
  Purify Ore      | Fire gains triple speed and quality when trying to purify and extract ores.                | 2        
