@@ -25,5 +25,5 @@ The item that is being converted into a tattoo must not be magical or enchanted 
  Cosmetics       | Tattoo can be designed to glow, shine, and otherwise alter it’s appearance.               | 1        
  Free Motion     | Tattoo can move around the body as intended by the user, such as to be easier to access.  | 1        
  Fast Extraction | Item can be extracted extremely quickly, and provides telekinetic assistance with intent. | 2        
- Larger Item     | Item can be 20cm x 10cm x 10cm in volume. Must apply this upgrade before item is imbued.  | 2        
+ Larger Item     | Item can be 30cm x 20cm x 20cm in volume. Must apply this upgrade before item is imbued.  | 2        
  Allow Magic     | Item can possess magical traits. Must apply this upgrade before the item is imbued.       | 3        
