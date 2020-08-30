@@ -1,5 +1,7 @@
 ## Turret
 
+An enchanted turret is a siege weapon that fires large bolts or projectiles. Larger, more stationary variants tend to provide a larger opportunity for damage. Smaller versions tend to be more mobile, but at the cost of lower damage output.
+
  **Name**            | **Description**                                                                             | **Tier** 
 ---------------------|---------------------------------------------------------------------------------------------|:--------:
  Cantrips            | Can create cosmetic auras, energy trails, glyphs, etches, and other cantrip effects.        | 2        
