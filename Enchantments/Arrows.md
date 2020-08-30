@@ -9,6 +9,7 @@ Once an arrow has been fired, it will take a short scene before it’s enchantme
  Cosmetics      | Arrow can be designed to user’s intent; can also include glyphs, glow, trailing effects, etc.       | 1        
  True Shot      | Ignores environment penalties such as wind and rain.                                                | 1        
  Ricochet       | Arrow can ricochet off of a solid surface and maintain 98% of its momentum.                         | 1        
+ Altered Form   | Arrow will adjust to the size and damage type of the weapon, such as to fire from a turret.         | 1        
  Distance       | Arrow can travel up to 50% farther with equal effort.                                               | 2        
  Piercing       | Arrow’s piercing capacity is increased by 50%.                                                      | 2        
  Fast           | Arrow moves 50% faster. It is harder to dodge and creates a stronger force of impact.               | 2        
