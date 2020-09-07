@@ -6,11 +6,11 @@ Ambrosia can be merged directly with the user’s aura by intent, or returned ba
 
 Since Ambrosia can recreate any other magical currency, it follows a general exchange rate as follows:
 
-| Ambrosia | Tier |
-|:--------:|:----:|
-| 1        | 2    |
-| 4        | 3    |
-| 15       | 4    |
-| 60       | 5    |
-| 250      | 6    |
-| 1000     | 7    |
+ **Ambrosia** | **Tier** 
+:------------:|:--------:
+ 1            | 2        
+ 4            | 3        
+ 15           | 4        
+ 60           | 5        
+ 250          | 6        
+ 1000         | 7        
