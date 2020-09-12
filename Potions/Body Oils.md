@@ -12,7 +12,7 @@ There are no permanent variants. All enchanted body oils will fade from their ef
  Camouflage   | Applies enchanted oils that adapts its colors to blend with the surroundings.                | 1        
  Shadow Paint | Applies a dark paint to the body and enchants it with light reduction and dispersal.         | 2        
  Deflection   | Glancing blows deflect from the skin, making it significantly harder to indirectly pierce.   | 2        
- Stone Skin   | Hardens skin and muscle tissue significantly, making it twice as resilient to piercing.      | 3        
+ Stone Skin   | Hardens skin and muscle tissue significantly, making it 4x as resilient to piercing.         | 3        
  Invisibility | Applies astral oils. Appears invisible while still and transparently distorted while moving. | 4        
 
 ### Corpse Oils
