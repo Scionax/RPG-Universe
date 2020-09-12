@@ -50,8 +50,8 @@ Dosage affects how significant a genetic change is. A partial dosage, for exampl
  **Name**          | **Description**                                                                         | **Tier** 
 -------------------|-----------------------------------------------------------------------------------------|:--------:
  Blood Resilience  | Blood loss is reduced by 50%, and blood regeneration is 2x faster. Easier to stabilize. | 1, 4     
- Tissue Resilience | Skin, muscle, and tissue is 50% more resilient and 2x faster to recovery from injury.   | 1, 4     
- Bone Resilience   | Damage to bones is reduced by 50%; harder to break, crack, fracture, etc.               | 1, 5     
+ Tissue Resilience | Skin, muscle, and tissue is 50% more resilient and 2x faster to recovery from injury.   | 2, 5     
+ Bone Resilience   | Damage to bones is reduced by 50%; harder to break, crack, fracture, etc.               | 2, 5     
  Organ Resilience  | Damage to organs and intestines reduced 50%; recovers 2x faster. Organ failure is rare. | 2, 6     
 
 ### Resistance Potions
