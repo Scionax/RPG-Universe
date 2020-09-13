@@ -37,7 +37,7 @@ Dosage affects how significant a genetic change is. A partial dosage, for exampl
  Body {feature}      | Change a user’s cosmetic body characteristic to {feature}. Very uncomfortable transition.          | 1, 3     
  Regrow Limb         | Regrows a limb that has been lost. Painful transition.                                             | 3        
  Species: {type}     | Shifts user’s genetics closer to a {species type}. Uncomfortable transition.                       | 4        
- Gender: {type}      | Changes the gender of the user to {gender type}. Painful transition.                               | 2, 4     
+ Sex: {type}         | Changes the sex of the user to {sex type}. Painful transition.                                     | 2, 4     
  Pheromones          | Body releases pheromones that attract and command attention, particularly the opposite sex.        | 1, 5     
  Shrink Self         | Decreases the user’s size based on dosage (within limits). Painful transition.                     | 2, 5     
  Enlarge Self        | Increases the user’s size based on dosage (within limits). Painful transition.                     | 2, 5     
