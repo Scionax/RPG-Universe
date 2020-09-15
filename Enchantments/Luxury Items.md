@@ -1,0 +1,18 @@
+## Luxury Items
+
+Enchanted luxury items are generally single-purpose items that raise one’s quality of life through magical means. They don’t offer many (if any) mechanical advantages beyond enjoyment. All luxury items are tier 1 treasures.
+
+ **Luxury Item**  | **Description**                                                                                                                                                                                                            
+------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Dresser          | Automatically washes, grooms, folds, irons, sorts, and otherwise fully prepares clothing for wear. Entire process takes only a short scene. Will anticipate user’s needs and open drawer with intended outfit.             
+ Fishing Rod      | Rod automatically fixates itself in position and casts toward a source of water. Reels itself in when a fish is caught, and will release it into an appropriate container. Uses enchantments to triple its catch rate.     
+ Game Board       | The board and tokens will reshape themselves to match any tabletop game, within reasonable limits. Attuned user can adjust their form, appearance, and so forth with five seconds of concentration.                        
+ Instrument       | Retains an aura of neural essence for playing the instrument, making it three times easier to learn and five times easier to play. If intended, it can only be heard by the attuned user, or within a defined area.        
+ Jailer’s Chain   | Anyone bound by this chain (and subject to emotional manipulation) will be pacified by 50%, and equally less likely to incite violence or trouble. Enchantments attempt to reduce their will by 20%.                       
+ Picture Frame    | Frame will adjust itself to multiple sizes and shapes based on the pictures it stores. Can store multiple pictures and swap between them. User can intend the frame to change itself or pictures with 5 seconds of focus.  
+ Spice Shaker     | Recreates the spices and tastes of any spice that has ever been added to it. The richness and quality of the flavor is increased by 50%. Can adjust spiciness, bitterness, sourness, saltiness, etc.                       
+ Sports Ball      | Can transform to any sports ball or similar object, within reasonable limits. Attuned user can adjust its shape, size, weight, bounciness, friction, material and appearance with five seconds of concentration.           
+ Survival Utensil | Reforms itself into a survival knife, kitchen utensil (spoon, fork, etc), scraper, can opener, or other similar tools of the user’s discretion. Attuned user can transform the utensil by concentrating for five seconds.  
+ Trash Can        | Any non-magical, non-metal garbage added to the trash can will be compacted, composted, and rapidly dissolved in an ecological-friendly manner. It never smells or needs to be taken out.                                  
+ Useful Dish      | Transforms to any dish, pot, pan, plate or similar object. Its enchantments allow it to maintain the heat of any meal or liquid, and cook faster with improved quality. Will transform with five seconds of concentration. 
+ Wine Bottle      | Can pour any non-magical, non-enchanted wine or alcohol that it has previously been filled with. Can only serve enough for a few people per long scene. Poured contents return to water after a long scene.                
