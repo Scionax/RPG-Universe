@@ -8,10 +8,11 @@ The food and beverages the jar conjures depends on two primary factors: the pref
 ------------------|------------------------------------------------------------------------------------------|:--------:
  Designation      | User can designate which foods and/or beverages that the jar will produce.               | 1        
  Transform        | Jar can transform into similar containers: jug, cup, wine bottle, thermos, pitcher, etc. | 1        
- Purify           | Purifies any impurities, toxins, poisons, and other contaminants on added products.      | 1        
+ Purify           | Purifies any impurities, toxins, poisons, spoilage, and contaminants on added products.  | 1        
  Durability       | Resistant to physical damage, ignores elemental effects, repairs itself over 1 week.     | 1        
  Sustenance       | Jar can always supply protein-rich and nutrient-rich beverages and food sources.         | 1        
  Gardening        | Jar will always produce product as though gathering from a high quality garden.          | 2        
  Taste            | Anything produced by the jar tastes 100% better than it’s natural counterpart.           | 2        
  More Product     | Jar will generate ten times as much product, automatically refilling ten times faster.   | 2        
  Multi-Containers | Jar can open to ten extra-dimensional containers. Each can contain different content.    | 3        
+
